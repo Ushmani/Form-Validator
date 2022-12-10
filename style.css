@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&family=Poppins&display=swap');
 :root{
     --success-color: #2ecc71;
-    --error-color: #e74c3c
+    --error-color: #FF0000;
 }
 
 *{
